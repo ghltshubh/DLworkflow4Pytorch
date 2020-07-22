@@ -1,4 +1,4 @@
-# DLworkflow4Pytorch
+# DLworkflowWithPytorch
 
 Workflow for doing single/multi GPU deep learning with ability to track multiple hyperparameters, checkpoint code and resume training.
 
