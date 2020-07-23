@@ -10,7 +10,7 @@ Python notebook has been commented appropriately and should be enought to guide 
 
 **Features**
 -	Choose number of GPUs to run your code on.
--	Define parameters and hyperparameters to track and test your model on.
+-	Define parameters and hyperparameters to track and test your model on. NOTE: Runtimes are in seconds
 -	Save the output in a .csv file for reproducability and later investigation. 
 
 ![csvoutput](https://github.com/ghltshubh/DLworkflowWithPytorch/blob/master/csv_output.png?raw=true)
