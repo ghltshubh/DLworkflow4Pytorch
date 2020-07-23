@@ -11,7 +11,7 @@ Python notebook has been commented appropriately and should be enought to guide 
 **Features**
 -	Choose number of GPUs to run your code on.
 -	Define parameters and hyperparameters to track and test your model on.
--	Save the output in a .csv format for reproducability and later investigation. 
+-	Save the output in a .csv file for reproducability and later investigation. 
 -	Create checkpoint at epoch level to resume the training later.
 -	Choose and automatically save the best model.
 
