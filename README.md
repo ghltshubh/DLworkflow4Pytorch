@@ -13,7 +13,7 @@ Python notebook has been commented appropriately and should be enought to guide 
 -	Define parameters and hyperparameters to track and test your model on.
 -	Save the output in a .csv file for reproducability and later investigation. 
 
-![csvoutput] (https://github.com/ghltshubh/DLworkflowWithPytorch/blob/master/csv_output.png?raw=true)
+![csvoutput](https://github.com/ghltshubh/DLworkflowWithPytorch/blob/master/csv_output.png?raw=true)
 
 -	Create checkpoint at epoch level to resume the training later.
 -	Choose and automatically save the best model.
