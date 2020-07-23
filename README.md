@@ -12,7 +12,7 @@ Python notebook has been commented appropriately and should be enought to guide 
 -	Choose number of GPUs to run your code on.
 -	Define parameters and hyperparameters to track and test your model on.
 -	Save the output in a .csv file for reproducability and later investigation. 
-![csv_output] 
+![csv_output] (https://github.com/ghltshubh/DLworkflowWithPytorch/blob/master/csv_output.png) 
 -	Create checkpoint at epoch level to resume the training later.
 -	Choose and automatically save the best model.
 
