@@ -2,7 +2,7 @@
 
 **Description**
 
-Workflow for doing single/multi GPU deep learning with ability to track multiple hyperparameters, code checkpointing and save best model definition.
+Workflow for doing single/multi GPU deep learning with ability to track multiple hyperparameters, code checkpointing and save the best model definition.
 
 **How to use it**
 
